@@ -1,0 +1,1 @@
+"""Automação mobile para testes Android com Appium."""
