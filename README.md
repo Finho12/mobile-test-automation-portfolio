@@ -105,7 +105,3 @@ O arquivo `data/sample_records.csv` contém identificadores fictícios. Para exe
 ## Relatórios
 
 Cada execução gera um CSV com o número do teste, status, identificador usado e mensagem de erro, em `reports/`.
-
-## Nota de portfólio
-
-Este repositório demonstra organização de automação mobile com Python/Appium. Não inclui identificadores, dados nem regras internas do aplicativo usado no trabalho. Só publique código corporativo quando tiver autorização explícita.
