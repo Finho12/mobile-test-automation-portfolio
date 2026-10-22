@@ -106,14 +106,6 @@ O arquivo `data/sample_records.csv` contém identificadores fictícios. Para exe
 
 Cada execução gera um CSV com o número do teste, status, identificador usado e mensagem de erro, em `reports/`.
 
-## Próximos passos para evoluir o portfólio
-
-1. Adaptar os seletores a um aplicativo de demonstração ou ambiente autorizado.
-2. Adicionar screenshots automaticamente quando um teste falhar.
-3. Criar Page Objects separados para cada tela.
-4. Integrar o relatório com CI (GitHub Actions) usando um ambiente de testes.
-5. Acrescentar casos positivos, negativos e de validação de campos.
-
 ## Nota de portfólio
 
 Este repositório demonstra organização de automação mobile com Python/Appium. Não inclui identificadores, dados nem regras internas do aplicativo usado no trabalho. Só publique código corporativo quando tiver autorização explícita.
